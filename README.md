@@ -4,4 +4,4 @@ This is the final template for the Next.js App Router Course. It contains the fi
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-[Live Link](https://nextjs-dashboard-sepia-phi.vercel.app/)
+You can see the project through this [Live Link](https://nextjs-dashboard-sepia-phi.vercel.app/)
